@@ -46,7 +46,7 @@ Des systèmes LLM **codés à la main d'abord**, pour comprendre chaque abstract
 
 ### 🌟 Projets & réalisations
 
-- 🤖 **Montée en compétence IA (build-driven)** : une série de projets d'ingénierie LLM construits brique par brique — prompting → agents from scratch → LangGraph → MCP → DeepAgents → harness d'éval. Chaque phase close par un build qui tourne.
+- 🤖 **Montée en compétence IA (build-driven)** : une série de projets d'ingénierie LLM construits brique par brique — prompting → agents from scratch → LangGraph → MCP → DeepAgents → harness d'éval. Chaque phase se clôt par un build qui tourne.
 - 📦 **[php-specification](https://github.com/tjarrier/php-specification)** : bibliothèque pour implémenter le *Specification Pattern* de manière fluide en PHP.
 - 🐳 **[symfony-docker-image-to-ci](https://github.com/tjarrier/symfony-docker-image-to-ci)** : image Docker prête pour la CI d'applications Symfony / React.
 - ⚙️ **Infrastructure as Code** : provisionnement **Terraform** et configuration **Ansible**.
@@ -72,5 +72,5 @@ Des systèmes LLM **codés à la main d'abord**, pour comprendre chaque abstract
 ### 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-jarrier-469208130)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ellioudal)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ellioudal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jarriert@gmail.com)
